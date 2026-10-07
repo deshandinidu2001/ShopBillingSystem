@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ShopBilling.Core/ShopBilling.Core.csproj" />
+  <Project Path="ShopBilling.Infrastructure/ShopBilling.Infrastructure.csproj" />
+  <Project Path="ShopBilling.Wpf/ShopBilling.Wpf.csproj" />
+  <Project Path="ShopBilling.Verification/ShopBilling.Verification.csproj" />
+</Solution>
